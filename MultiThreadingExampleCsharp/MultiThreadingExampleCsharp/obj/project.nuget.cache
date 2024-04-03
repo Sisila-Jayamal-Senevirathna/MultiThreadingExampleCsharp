@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7dBAkx/26G5qyRIP0xueVutRCbddenoXUIIM/nLC0kkrAX+z3R4CvQAT9NzkZ+xHlGXDSqdNzarj+km3YeGvQg==",
+  "success": true,
+  "projectFilePath": "D:\\SJAY\\MultiThreadingExampleCsharp\\MultiThreadingExampleCsharp\\MultiThreadingExampleCsharp\\MultiThreadingExampleCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sisila\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Sisila\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Sisila\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Sisila\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
